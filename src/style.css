@@ -1,0 +1,12 @@
+.dark body {
+    color: rgba(var(--theme-font-color-dark));
+  }
+.dark body {
+    background-color: rgb(var(--color-surface-900));
+}
+
+body {
+    color: rgba(var(--theme-font-color-dark));
+    background-color: rgb(var(--color-surface-900));
+
+}
